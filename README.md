@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh21k&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogesh21k" alt="yogesh" /></a> </p>
-
 - 🌱 I’m currently learning **.NET Framework**
 
 <h3 align="left">Connect with me:</h3>
